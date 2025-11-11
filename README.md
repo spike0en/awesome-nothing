@@ -101,41 +101,31 @@ A curated list of everything related to [Nothing & CMF by Nothing](https://nothi
 
 ## Socials 
 
-### Official Channels  
+### Official 
+
 [![Community Website](https://img.shields.io/badge/Community--Website-%23E5E5E5?style=for-the-badge&logoColor=058a5e)](https://nothing.community) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)]([https://twitter.com/nothinguk](https://x.com/nothing)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nothing) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@NothingTechnology)
 
-### Community Maintained Channels
+### Community Maintained (Unofficial)
+
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/nothingtech) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/NothingTech) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nothing_archive)  
 
-## Apps
-
-### Official Nothing Apps
-The official suite of apps developed by Nothing Technology Limited.
-- [CMF Watch](https://play.google.com/store/apps/details?id=com.nothing.cmf.watch)  
-- [Community Widgets](https://play.google.com/store/apps/details?id=com.nothing.communitywidgets)  
-- [Essential Space](https://play.google.com/store/apps/details?id=com.nothing.ntessentialspace)  
-- [Gallery](https://play.google.com/store/apps/details?id=com.nothing.gallery)  
-- [Glyph Composer](https://play.google.com/store/apps/details?id=com.nothing.glyph.composer)  
-- [Icon Pack](https://play.google.com/store/apps/details?id=com.nothing.icon)  
-- [Launcher](https://play.google.com/store/apps/details?id=com.nothing.launcher)  
-- [Nothing X](https://play.google.com/store/apps/details?id=com.nothing.smartcenter)  
-- [Wallpaper](https://play.google.com/store/apps/details?id=com.nothing.wallpaper)  
-- [Weather](https://play.google.com/store/apps/details?id=com.nothing.weather)  
-- [Widgets](https://play.google.com/store/apps/details?id=com.nothing.hearthstone)   
+## Community Related
 
 ### Community Apps
 Community-made and inspired apps following the Nothing design.
 
 #### Glyph-Powered
+
 - [blockit by Mirko_ddd](https://play.google.com/store/apps/details?id=com.hypenet.focused) - A tech detox phone blocking app with Glyph integration.
 - [Glyph Compass by JayKayCooperations](https://play.google.com/store/apps/details?id=com.JayKayCooperations.glyph_compass) - Use your Glyph interface as a compass.
 - [Glyph Notifications by GlyphLab](https://play.google.com/store/apps/details?id=com.tldc.essentials) - Advanced customisation for Glyph notifications.
 - [Glyph Unlock Pulse by Singularity Design](https://play.google.com/store/apps/details?id=com.singularityux.glyphunlockpulse) - Enhance your device unlock experience with animated glyphs.
 - [Glyphify v3 by Fr4nKB](https://play.google.com/store/apps/details?id=com.frank.glyphify) - Advanced Glyph controls for notifications including an automatic music to Glyph composer. Supports Glyph Matrix on Phone (3).
-- [Simone by RapidZapper](https://play.google.com/store/apps/details?id=com.lisra.simone) - The classic memory game recreated with the Glyph interface.
 - [GlyphNexus by Experion Labs](https://play.google.com/store/apps/details?id=com.voidtechstudios.smartglyph) - Advanced Glyph notification control including Glyph Timer for Phone (1). Supports Glyph Matrix on Phone (3).
+- [Simone by RapidZapper](https://play.google.com/store/apps/details?id=com.lisra.simone) - The classic memory game recreated with the Glyph interface.
 
 #### Notes & Productivity
+
 - [Dothing by FirstYogi](https://play.google.com/store/apps/details?id=com.firstyogi.dothing) - A minimalist tasks app with cloud backup.
 - [nNotes by Bhavuk Verma](https://play.google.com/store/apps/details?id=com.bhavukverma.nNotes) - An open source Nothing OS style notes app.
 - [No Things To Do List by Martin Diermayr](https://play.google.com/store/apps/details?id=com.todo.nothingwidgets) - A Nothing inspired task/to-do app and widget with customisable reminders.
@@ -143,6 +133,7 @@ Community-made and inspired apps following the Nothing design.
 - [Noting by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.notingnotes) - A Nothing styled notes and tasks app with cloud backup.
 
 #### Utilities & Tools
+
 - [Battery Health by monospace](https://play.google.com/store/apps/details?id=com.monospace.battery) - A battery health monitoring app with design inspired by Nothing apps.
 - [N Calc by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.ncalc) - A calculator with custom themes, including Nothing style.
 - [N Dial by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.ndial) - A Nothing styled phone dialer and contacts app.
@@ -152,6 +143,7 @@ Community-made and inspired apps following the Nothing design.
 - [NoVolume by NoAppsStudio](https://play.google.com/store/apps/details?id=com.nostudio.novolume) - A fully customisable volume slider with Nothing aesthetic.
 
 #### Miscellaneous
+
 - [Dot Battery by RapidZapper](https://play.google.com/store/apps/details?id=com.lisra.dotbattery) - A live battery level wallpaper inspired by Nothing dot design language.
 - [MissingCore Music by MissingCore](https://play.google.com/store/apps/details?id=com.cyanchill.missingcore.music) - A Nothing OS inspired, open source offline/local music player app.
 - [Noid by TechSip Studios](https://play.google.com/store/apps/details?id=com.techsip.noid) - A Nothing styled file management app.
@@ -163,7 +155,7 @@ Community-made and inspired apps following the Nothing design.
 
 ### Glyph Related
 
-#### Glyph tools
+##### Glyph tools
 A collection of Glyph related projects created by the Nothing community
 
 - [Custom Nothing Glyph Tools by SebiAi](https://github.com/SebiAi/custom-nothing-glyph-tools) - Create custom Glyph tones using Audacity with this toolset.  
@@ -173,30 +165,117 @@ A collection of Glyph related projects created by the Nothing community
 - [GlyphVisualizer by SebiAi](https://github.com/SebiAi/GlyphVisualizer) - Desktop app to visualize .ogg Glyph compositions. Supports the Phone (3) Glyph Matrix.  
 - [Nothing Glyph Composer (BNGC) by Krishnagopal Sinha](https://github.com/Krishnagopal-Sinha/better-nothing-glyph-composer) - A visual tool for creating custom Glyph tones. Supports the Phone (3) Glyph Matrix.  
 
-#### Glyph Matrix Toys
+##### Glyph Matrix Toys
 A collection of Glyph Matrix Toys by the community. Additionally check out [Nothing Playground](https://playground.nothing.tech/) for more interesting stuff!
 
+- [BetterBattery by pauwma](https://github.com/PzmuV1517/BetterBatery) - An Advanced Glyph Matrix battery visualization.
+- [BetterClock by Snakehater](https://github.com/Snakehater/betterclock) - This toy features a multifunctional display that includes a clock, battery status, charging animation and icon, a DND, and a toggle for the same with a back button.
 - [Counter by Daniel](https://nothing.community/d/36837-introducing-counter-a-glyph-toy) - A simple and intuitive counter ranging from 0 to 9999.  
 - [Dot Hub by nostream](https://play.google.com/store/apps/details?id=com.gesekus.dothub) - A multifunctional app featuring a music visualizer, compass, breathing light, coin flip, dice (d3–d9), and counter.  
+- [Glyph Anki by R0uli078](https://github.com/R0uli078/GlyphAnki) - A simple tool to connect Anki with the Glyph Matrix, so you can review your flashcards without looking at your phone screen.
 - [Glyph Beat by pauwma](https://play.google.com/store/apps/details?id=com.pauwma.glyphbeat) - A media visualizer offering a variety of animated Glyph themes.  
 - [Glyph Bike by Ofishial Digital](https://play.google.com/store/apps/details?id=com.ofishialdigital.glyphbike) - A fast-paced scrolling game where you navigate a motorbike through jumps and obstacles.  
+- [Glyph Matrix Simulator by pauwma](http://glyph.andreibanu.com/) - A website to test and develop Glyph Matrix code.
 - [Glyph Museum by pauwma](https://play.google.com/store/apps/details?id=com.pauwma.glyphmuseum) - Explore, design, and showcase creative Glyph art and animations.  
 - [Glyph Toybox by Singularity Design](https://play.google.com/store/apps/details?id=com.singularityux.glyphtoybox) - A collection of interactive Glyph tools like coin flip, ringer mode, and battery flow.  
-- [Glyphify by Fr4nKB](https://play.google.com/store/apps/details?id=com.frank.glyphify) - A gyroscopic ball maze game and quick-dial tool for favorite contacts, right on the Glyph Matrix.  
+- [Glyphify by Fr4nKB](https://play.google.com/store/apps/details?id=com.frank.glyphify) - A gyroscopic ball maze game and quick-dial tool for favorite contacts, right on the Glyph Matrix. 
+- [HA-Glyph by pauwma](https://github.com/PzmuV1517/HA-glyph) - Toggle any home assistant entity or helper
 - [Leveller by RapidZapper](https://play.google.com/store/apps/details?id=com.lisra.matrixleveler) - A straightforward gyroscopic level tool for the Glyph Matrix.  
 - [Magic 8 Ball by Fr4nKB](https://play.google.com/store/apps/details?id=com.frank.magic8ball) - The classic Magic 8 Ball experience brought to life on the Glyph Matrix.  
+- [Pomodoro Timer by pauwma](http://github.com/PzmuV1517/GlyphPomodoroTimer) - A pomodoro timer toy.
 - [SmartGlyph by Experion Labs](https://play.google.com/store/apps/details?id=com.voidtechstudios.smartglyph) - A suite of practical Glyph tools including app notifications, Bluetooth alerts, timers, progress bars, and a music visualizer.  
 
 ### Miscellaneous
 Other interesting projects maintained by the community.
 
+- [Dotify Client by raj.d.patel](https://github.com/PATEL96/dotify-client) - Dot Matrix image generator.
 - [Ear (web) by RapidZapper](https://earweb.bttl.xyz/) - Control your Nothing and CMF earbuds directly from the web.  
+- [Macros by RedSkullxHydra](https://nothing.community/d/14869-useful-macros-for-nothing-phones) - Useful Macros for Nothing Phones compatible with Macrodroid.
 - [Matrices by Uday](https://udaign.github.io/matrices/) - Create images and designs in the style of the Glyph Matrix easily. 
+- [nKWGT by avnishkt2783]() - Yet another collection of Nothing-style widgets.
+- [Notes by rohankishore](https://github.com/rohankishore/Notes-1) - A NothingOS themed notepad for Windows
 - [Nothing Archive by spike0en](https://github.com/spike0en/nothing_archive) - Indexes, generates, and preserves official OTA links and unmodified images for Nothing OS devices. Useful for manual updates, restoring stock firmware, or custom development. 
 - [Nothing Flasher by spike0en](https://github.com/spike0en/nothing_flasher) - A set of fastboot scripts for flashing Nothing OS firmware for respective models.
-- [Nothing KWGT apps by aaumgupta](https://github.com/AumGupta/KWGT-Widgets) - Open-source collection of Nothing-style KWGT widgets.  
+- [Nothing KWGT apps by aaumgupta](https://github.com/AumGupta/KWGT-Widgets) - Open-source collection of Nothing-style KWGT widgets. 
 - [Nothing News by lsh3](https://chromewebstore.google.com/detail/nothing-news/ijacccpmmnbckkiobhonleppbcljpjpo) - A Chrome extension to quickly browse the latest nothing.community news.  
 - [NThing-UI](https://github.com/Runixe786/NThing-UI) - A collection of Nothing-styled Rainmeter widgets for desktop customization.
+- [Spin The Bottle Simulator by MadGlacierRunner](http://dotmatrix-beerbottle.vercel.app/) - A simulation for spin the bottle toy.
+
+---
+
+## OEM Resources
+
+### Official Nothing Apps
+The official suite of apps developed by Nothing Technology Limited.
+
+- [CMF Watch](https://play.google.com/store/apps/details?id=com.nothing.cmf.watch)  
+- [Community Widgets](https://play.google.com/store/apps/details?id=com.nothing.communitywidgets)  
+- [Essential Space](https://play.google.com/store/apps/details?id=com.nothing.ntessentialspace)  
+- [Gallery](https://play.google.com/store/apps/details?id=com.nothing.gallery)  
+- [Glyph Composer](https://play.google.com/store/apps/details?id=com.nothing.glyph.composer)  
+- [Icon Pack](https://play.google.com/store/apps/details?id=com.nothing.icon)  
+- [Launcher](https://play.google.com/store/apps/details?id=com.nothing.launcher)  
+- [Nothing X](https://play.google.com/store/apps/details?id=com.nothing.smartcenter)  
+- [Wallpaper](https://play.google.com/store/apps/details?id=com.nothing.wallpaper)  
+- [Weather](https://play.google.com/store/apps/details?id=com.nothing.weather)  
+- [Widgets](https://play.google.com/store/apps/details?id=com.nothing.hearthstone) 
+
+### Wallpapers
+
+-  [GD Link](https://drive.google.com/drive/folders/1V5ZpOkroaNFDVB8sBs31Dmv3klCiqWio)
+
+### Fonts
+
+- [Inter](https://rsms.me/inter/)
+- [Lettera Mono - Regular](https://dumps.tadiphone.dev/dumps/nothing/metroid/-/blob/qssi_64-user-15-AQ3A.250226.002-2507191646-release-keys/system/system/fonts/LetteraMonoLL-Regular.otf)
+- [NDot55](https://dumps.tadiphone.dev/dumps/nothing/metroid/-/blob/qssi_64-user-15-AQ3A.250226.002-2507191646-release-keys/system/system/fonts/Ndot-55.otf)
+- [NDot57 (Aligned)](https://dumps.tadiphone.dev/dumps/nothing/metroid/-/blob/qssi_64-user-15-AQ3A.250226.002-2507191646-release-keys/system/system/fonts/Ndot-57-Aligned.otf)
+- [NDot57](https://dumps.tadiphone.dev/dumps/nothing/metroid/-/blob/qssi_64-user-15-AQ3A.250226.002-2507191646-release-keys/system/system/fonts/Ndot-57.otf)
+- [NDot77 (Japan)](https://dumps.tadiphone.dev/dumps/nothing/metroid/-/blob/qssi_64-user-15-AQ3A.250226.002-2507191646-release-keys/system/system/fonts/Ndot77JPExtended.ttf)
+- [NType82 (Headline)](https://dumps.tadiphone.dev/dumps/nothing/metroid/-/blob/qssi_64-user-15-AQ3A.250226.002-2507191646-release-keys/system/system/fonts/NType82-Headline.otf)
+- [NType82 (Regular)](https://dumps.tadiphone.dev/dumps/nothing/metroid/-/blob/qssi_64-user-15-AQ3A.250226.002-2507191646-release-keys/system/system/fonts/NType82-Regular.otf)
+
+### System Sounds
+
+- [Alarms](https://dumps.tadiphone.dev/dumps/nothing/metroid/-/tree/qssi_64-user-15-AQ3A.250226.002-2507191646-release-keys/vendor/product/media/audio/alarms)
+- [Notifications](https://dumps.tadiphone.dev/dumps/nothing/metroid/-/tree/qssi_64-user-15-AQ3A.250226.002-2507191646-release-keys/vendor/product/media/audio/notifications)
+- [Ringtones](https://dumps.tadiphone.dev/dumps/nothing/metroid/-/tree/qssi_64-user-15-AQ3A.250226.002-2507191646-release-keys/vendor/product/media/audio/ringtones)
+
+### Kernel Sources
+
+- [CMF Phone (1)](https://github.com/NothingOSS/android_kernel_6.1_nothing_mt6878)
+- [CMF Phone (2) Pro](https://github.com/NothingOSS/android_kernel_modules_nothing_mt6878/tree/mt6878/Galaga/v)
+- [Phone (1)](https://github.com/NothingOSS/android_kernel_msm-5.4_nothing_sm7325)
+- [Phone (2)](https://github.com/NothingOSS/android_kernel_msm-5.10_nothing_sm8475/tree/sm8475/v/mr)
+- [Phone (2a) Series](https://github.com/NothingOSS/android_kernel_5.15_nothing_mt6886)
+- [Phone (3)](https://github.com/NothingOSS/android_kernel_msm-6.6_nothing_sm8735)
+- [Phone (3a) Series](https://github.com/NothingOSS/android_kernel_msm-6.1_nothing_sm7635)
+
+### Glyph Developer Kit SDK & API(s)
+Software toolkit for devs to create custom create custom interactive experiences for Glyph LED / Matrix.
+
+- [API Key - Application Form](https://forms.gle/mriKRPdYJtgseCZS6)
+- [Glyph-Developer-Kit (SDK)](https://github.com/Nothing-Developer-Programme/Glyph-Developer-Kit)
+- [GlyphMatrix - Sample Project](https://github.com/Nothing-Developer-Programme/GlyphMatrix-Example-Project)
+- [GlyphMatrix-Developer-Kit (SDK)](https://github.com/Nothing-Developer-Programme/GlyphMatrix-Developer-Kit)
+- [Nothing Glyph Interface for Flutter (Unofficial])](https://pub.dev/packages/nothing_glyph_interface)
+- [NothingOS.Unity (Unofficial)](http://github.com/am1goo/NothingOS.Unity) - This SDK provides native APIs for all of the essential Glyph features on Nothing Phone.
+
+### Support Links
+Official support links related to after-sales, tech support, business and careers.
+
+- [Business Enquiry](http://nothing.tech/pages/business-enquiry)
+- [Careers](http://careers.nothing.tech/)
+- [CMF Twitter(X) Support](http://cmf_support/)
+- [Customer Support](http://nothing.tech/pages/support-centre)
+- [FAQ](https://support.nothing.tech/hc/en-us/categories/21058037012881-FAQ-General)
+- [FAQ](https://support.nothing.tech/hc/en-us/categories/21058037012881-FAQ-General)
+- [Nothing Twitter(X) Support](http://nothingsupport/)
+- [Product Guide](http://nothing.tech/pages/support-product-help)
+- [Service Centre](http://nothing.tech/pages/service-center)
+- [Troubleshooting](https://support.nothing.tech/hc/en-us/categories/7455115681041-Troubleshooting)
+
+---
 
 ## Support the Project
 
