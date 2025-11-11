@@ -168,8 +168,8 @@ A collection of Glyph related projects created by the Nothing community
 
 - [Custom Nothing Glyph Tools by SebiAi](https://github.com/SebiAi/custom-nothing-glyph-tools) - Create custom Glyph tones using Audacity with this toolset.  
 - [Glyphify v1 by Fr4nKB](https://github.com/Fr4nKB/Glyphify) - Advanced Glyph control app. v3 is now available on the Play Store.  
-- [Glyphtones project by Firu115](https://github.com/Firu115/nothing_glyphtones) - The open-source repository powering the Glyphtones website. 
-- [Glyphtones website by Firu115](https://glyphtones.is-a.dev/) - A web-based collection of community-made Glyph tones with device filters and a built-in visualizer.  
+- [Glyphtones project by Firu11](https://github.com/firu11/nothing-glyphtones) - The open-source repository powering the Glyphtones website. 
+- [Glyphtones website by Firu11](https://glyphtones.is-a.dev/) - A web-based collection of community-made Glyph tones with device filters and a built-in visualizer.  
 - [GlyphVisualizer by SebiAi](https://github.com/SebiAi/GlyphVisualizer) - Desktop app to visualize .ogg Glyph compositions. Supports the Phone (3) Glyph Matrix.  
 - [Nothing Glyph Composer (BNGC) by Krishnagopal Sinha](https://github.com/Krishnagopal-Sinha/better-nothing-glyph-composer) - A visual tool for creating custom Glyph tones. Supports the Phone (3) Glyph Matrix.  
 
