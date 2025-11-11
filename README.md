@@ -258,7 +258,7 @@ Software toolkit for devs to create custom create custom interactive experiences
 - [Glyph-Developer-Kit (SDK)](https://github.com/Nothing-Developer-Programme/Glyph-Developer-Kit)
 - [GlyphMatrix - Sample Project](https://github.com/Nothing-Developer-Programme/GlyphMatrix-Example-Project)
 - [GlyphMatrix-Developer-Kit (SDK)](https://github.com/Nothing-Developer-Programme/GlyphMatrix-Developer-Kit)
-- [Nothing Glyph Interface for Flutter (Unofficial])](https://pub.dev/packages/nothing_glyph_interface)
+- [Nothing Glyph Interface for Flutter (Unofficial)](https://pub.dev/packages/nothing_glyph_interface)
 - [NothingOS.Unity (Unofficial)](http://github.com/am1goo/NothingOS.Unity) - This SDK provides native APIs for all of the essential Glyph features on Nothing Phone.
 
 ### Support Links
@@ -268,8 +268,7 @@ Official support links related to after-sales, tech support, business and career
 - [Careers](http://careers.nothing.tech/)
 - [CMF Twitter(X) Support](http://cmf_support/)
 - [Customer Support](http://nothing.tech/pages/support-centre)
-- [FAQ](https://support.nothing.tech/hc/en-us/categories/21058037012881-FAQ-General)
-- [FAQ](https://support.nothing.tech/hc/en-us/categories/21058037012881-FAQ-General)
+- [FAQ](https://support.nothing.tech/hc/en-us/categories/38487703211153-FAQ)
 - [Nothing Twitter(X) Support](http://nothingsupport/)
 - [Product Guide](http://nothing.tech/pages/support-product-help)
 - [Service Centre](http://nothing.tech/pages/service-center)
