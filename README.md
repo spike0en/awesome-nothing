@@ -107,9 +107,26 @@ A curated list of everything related to [Nothing & CMF by Nothing](https://nothi
 ### Community Maintained Channels
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/nothingtech) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/NothingTech) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nothing_archive)  
 
-## Community Apps
+## Apps
 
-### Glyph-Powered
+### Official Nothing Apps
+The official suite of apps developed by Nothing Technology Limited.
+- [Icon Pack](https://play.google.com/store/apps/details?id=com.nothing.icon)  
+- [Launcher](https://play.google.com/store/apps/details?id=com.nothing.launcher)  
+- [Weather](https://play.google.com/store/apps/details?id=com.nothing.weather)  
+- [Glyph Composer](https://play.google.com/store/apps/details?id=com.nothing.glyph.composer)  
+- [Nothing X](https://play.google.com/store/apps/details?id=com.nothing.smartcenter)  
+- [Gallery](https://play.google.com/store/apps/details?id=com.nothing.gallery)  
+- [Widgets](https://play.google.com/store/apps/details?id=com.nothing.hearthstone)  
+- [Community Widgets](https://play.google.com/store/apps/details?id=com.nothing.communitywidgets)  
+- [CMF Watch](https://play.google.com/store/apps/details?id=com.nothing.cmf.watch)  
+- [Wallpaper](https://play.google.com/store/apps/details?id=com.nothing.wallpaper)  
+- [Essential Space](https://play.google.com/store/apps/details?id=com.nothing.ntessentialspace)  
+
+### Community Apps
+Community-made and inspired apps following the Nothing design.
+
+#### Glyph-Powered
 - [blockit by Mirko_ddd](https://play.google.com/store/apps/details?id=com.hypenet.focused) - A tech detox phone blocking app with Glyph integration.
 - [Glyph Compass by JayKayCooperations](https://play.google.com/store/apps/details?id=com.JayKayCooperations.glyph_compass) - Use your Glyph interface as a compass.
 - [Glyph Notifications by GlyphLab](https://play.google.com/store/apps/details?id=com.tldc.essentials) - Advanced customisation for Glyph notifications.
@@ -118,14 +135,14 @@ A curated list of everything related to [Nothing & CMF by Nothing](https://nothi
 - [Simone by RapidZapper](https://play.google.com/store/apps/details?id=com.lisra.simone) - The classic memory game recreated with the Glyph interface.
 - [SmartGlyph by Experion Labs](https://play.google.com/store/apps/details?id=com.voidtechstudios.smartglyph) - Advanced Glyph notification control including Glyph Timer for Phone (1). Supports Glyph Matrix on Phone (3).
 
-### Notes & Productivity
+#### Notes & Productivity
 - [Dothing by FirstYogi](https://play.google.com/store/apps/details?id=com.firstyogi.dothing) - A minimalist tasks app with cloud backup.
 - [nNotes by Bhavuk Verma](https://play.google.com/store/apps/details?id=com.bhavukverma.nNotes) - An open source Nothing OS style notes app.
 - [No Things To Do List by Martin Diermayr](https://play.google.com/store/apps/details?id=com.todo.nothingwidgets) - A Nothing inspired task/to-do app and widget with customisable reminders.
 - [Notes by monospace](https://play.google.com/store/apps/details?id=com.monospace.notes) - A Nothing styled notes app with built-in security.
 - [Noting by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.notingnotes) - A Nothing styled notes and tasks app with cloud backup.
 
-### Utilities & Tools
+#### Utilities & Tools
 - [Battery Health by monospace](https://play.google.com/store/apps/details?id=com.monospace.battery) - A battery health monitoring app with design inspired by Nothing apps.
 - [N Calc by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.ncalc) - A calculator with custom themes, including Nothing style.
 - [N Dial by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.ndial) - A Nothing styled phone dialer and contacts app.
@@ -134,7 +151,7 @@ A curated list of everything related to [Nothing & CMF by Nothing](https://nothi
 - [Nothing Clock by Sasha Chverenko](https://github.com/SushiiReboot/Nothing-Clock) - A Nothing style world clock, timer and stopwatch app.
 - [NoVolume by NoAppsStudio](https://play.google.com/store/apps/details?id=com.nostudio.novolume) - A fully customisable volume slider with Nothing aesthetic.
 
-### Miscellaneous
+#### Miscellaneous
 - [Dot Battery by RapidZapper](https://play.google.com/store/apps/details?id=com.lisra.dotbattery) - A live battery level wallpaper inspired by Nothing dot design language.
 - [MissingCore Music by MissingCore](https://play.google.com/store/apps/details?id=com.cyanchill.missingcore.music) - A Nothing OS inspired, open source offline/local music player app.
 - [Noid by TechSip Studios](https://play.google.com/store/apps/details?id=com.techsip.noid) - A Nothing styled file management app.
