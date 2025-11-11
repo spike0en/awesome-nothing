@@ -149,6 +149,7 @@ Community-made and inspired apps following the Nothing design.
 - [Dot Battery by RapidZapper](https://play.google.com/store/apps/details?id=com.lisra.dotbattery) - A live battery level wallpaper inspired by Nothing dot design language.
 - [MissingCore Music by MissingCore](https://play.google.com/store/apps/details?id=com.cyanchill.missingcore.music) - A Nothing OS inspired, open source offline/local music player app.
 - [Noid by TechSip Studios](https://play.google.com/store/apps/details?id=com.techsip.noid) - A Nothing styled file management app.
+- [NothingHub by StickyPRP](https://nothing-news.de/hub/) - Your central hub for everything related to nothing, be it apps, reviews, and news.
 - [Nothing News by Mirko_ddd](https://play.google.com/store/apps/details?id=com.nothing.news) - All of the latest news from the Nothing community.
 - [NothingLand by TheGlitchh](https://github.com/TheGlitchh/NothingLand) - An iOS style Dynamic Island for Nothing OS.
 - [Widgets Pro by Preethamkmr3](https://play.google.com/store/apps/details?id=com.tpk.widgetspro) - Additional widgets inspired by Nothing design language.
