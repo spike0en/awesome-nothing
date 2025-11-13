@@ -1,5 +1,7 @@
 # Awesome Nothing [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+<img src="assets/logo.png" width="96" alt="Awesome Nothing Logo">
+
 [![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fspike0en%2Fawesome_nothing&label=Hits&icon=github&color=%23b02a37&labelColor=2E2E3F)](https://github.com/spike0en/awesome_nothing) 
 [![Stars](https://img.shields.io/github/stars/spike0en/awesome_nothing?logo=github&color=D4AF37)](https://github.com/spike0en/awesome_nothing/stargazers) 
 [![Forks](https://img.shields.io/github/forks/spike0en/awesome_nothing?logo=github&color=468FAF)](https://github.com/spike0en/awesome_nothing/network/members) 
