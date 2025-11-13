@@ -313,6 +313,27 @@ Official support links related to after-sales, tech support, business and career
 
 ---
 
+## Drivers & Debugging
+This section provides resources for troubleshooting and development, including essential drivers, platform tools, and corresponding guides.
+
+### USB Drivers
+These drivers are essential for your computer to recognize Nothing devices for USB file transfers and more functionality.
+
+- [Google USB Drivers for Windows](https://dl.google.com/android/repository/usb_driver_r13-windows.zip).
+- Guide for installing the above drivers: [USB](https://droidwin.com/android-usb-drivers) | [Fastboot](https://droidwin.com/how-to-install-fastboot-drivers-in-windows-11/).
+
+### Platform Tools (ADB & Fastboot)
+These tools are crucial for device debugging and .
+
+- Download Android SDK Platform-Tools: [Windows](https://developer.android.com/studio/releases/platform-tools) | [Linux](https://developer.android.com/studio/releases/platform-tools) | [macOS](https://developer.android.com/studio/releases/platform-tools)
+- Setting up ADB and Fastboot: [Installation and Usage Guide](https://www.xda-developers.com/install-adb-windows-macos-linux/).
+- Windows users can alternatively install Android SDK Platform-Tools with [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/) by executing the cmd below:
+
+  ```cmd
+  winget install --id=Google.PlatformTools  -e
+  ```
+---
+
 ## Photography
 
 ### Google Camera Ports (GCAM)
