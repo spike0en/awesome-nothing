@@ -156,6 +156,7 @@ Community-made and inspired apps following the Nothing design.
 #### Utilities & Tools
 
 - [Battery Health by monospace](https://play.google.com/store/apps/details?id=com.monospace.battery) - A battery health monitoring app with design inspired by Nothing apps.
+- [MateApp by shahriaravi](https://github.com/shahriaravi/MateApp) - A minimalist, offline finance tracker inspired by the Nothing aesthetic, ensuring your data remains private and under your control.
 - [N Calc by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.ncalc) - A calculator with custom themes, including Nothing style.
 - [N Dial by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.ndial) - A Nothing styled phone dialer and contacts app.
 - [N Keyboard by arunk14](https://github.com/arunk140/nth-kbd) - An Android keyboard app themed heavily for Nothing devices.
