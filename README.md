@@ -199,7 +199,7 @@ A collection of Glyph related projects created by the Nothing community.
 ##### Glyph Matrix Toys
 A collection of Glyph Matrix Toys by the community. Additionally check out [Nothing Playground](https://playground.nothing.tech/) for more interesting stuff!
 
-- [BetterBattery by pauwma](https://github.com/PzmuV1517/BetterBatery) - An Advanced Glyph Matrix battery visualization.
+- [BetterBattery by pzmuV1517](https://github.com/PzmuV1517/BetterBatery) - An Advanced Glyph Matrix battery visualization.
 - [BetterClock by Snakehater](https://github.com/Snakehater/betterclock) - This toy features a multifunctional display that includes a clock, battery status, charging animation and icon, a DND, and a toggle for the same with a back button.
 - [Counter by Daniel](https://nothing.community/d/36837-introducing-counter-a-glyph-toy) - A simple and intuitive counter ranging from 0 to 9999.  
 - [Dot Hub by nostream](https://play.google.com/store/apps/details?id=com.gesekus.dothub) - A multifunctional app featuring a music visualizer, compass, breathing light, coin flip, dice (d3–d9), and counter.  
@@ -207,14 +207,14 @@ A collection of Glyph Matrix Toys by the community. Additionally check out [Noth
 - [Glyph Beat by pauwma](https://play.google.com/store/apps/details?id=com.pauwma.glyphbeat) - A media visualizer offering a variety of animated Glyph themes.  
 - [Glyph Bike by Ofishial Digital](https://play.google.com/store/apps/details?id=com.ofishialdigital.glyphbike) - A fast-paced scrolling game where you navigate a motorbike through jumps and obstacles.  
 - [Glyph Catch by equalparts](https://github.com/equalparts/glyph-catch) - A Pokémon collecting fan-game for Nothing Phone 3 Glyph Matrix
-- [Glyph Matrix Simulator by pauwma](http://glyph.andreibanu.com/) - A website to test and develop Glyph Matrix code.
+- [Glyph Matrix Simulator by pzmuV1517](http://glyph.andreibanu.com/) - A website to test and develop Glyph Matrix code.
 - [Glyph Museum by pauwma](https://play.google.com/store/apps/details?id=com.pauwma.glyphmuseum) - Explore, design, and showcase creative Glyph art and animations.  
 - [Glyph Toybox by Singularity Design](https://play.google.com/store/apps/details?id=com.singularityux.glyphtoybox) - A collection of interactive Glyph tools like coin flip, ringer mode, and battery flow.  
 - [Glyphify by Fr4nKB](https://play.google.com/store/apps/details?id=com.frank.glyphify) - A gyroscopic ball maze game and quick-dial tool for favorite contacts, right on the Glyph Matrix. 
 - [HA-Glyph by pzmuv1517](https://github.com/PzmuV1517/HA-glyph) - Toggle any home assistant entity or helper
 - [Leveller by RapidZapper](https://play.google.com/store/apps/details?id=com.lisra.matrixleveler) - A straightforward gyroscopic level tool for the Glyph Matrix.  
 - [Magic 8 Ball by Fr4nKB](https://play.google.com/store/apps/details?id=com.frank.magic8ball) - The classic Magic 8 Ball experience brought to life on the Glyph Matrix.  
-- [Pomodoro Timer by pauwma](http://github.com/PzmuV1517/GlyphPomodoroTimer) - A pomodoro timer toy.
+- [Pomodoro Timer by pzmuV1517](http://github.com/PzmuV1517/GlyphPomodoroTimer) - A pomodoro timer toy.
 - [SmartGlyph by Experion Labs](https://play.google.com/store/apps/details?id=com.voidtechstudios.smartglyph) - A suite of practical Glyph tools including app notifications, Bluetooth alerts, timers, progress bars, and a music visualizer.  
 
 #### Miscellaneous
