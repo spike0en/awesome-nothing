@@ -395,6 +395,28 @@ The config (`xml`) files have been archived for access in their respective direc
 
 ---
 
+## How-to Guides
+
+#### General
+Tips, tricks, and general guides for everyone!
+
+- [Manual OTA Updates Sideloading by spike0en](https://github.com/spike0en/nothing_archive?tab=readme-ov-file#i-ota-sideloading-)  
+- [Rebooting to Safe Mode](https://www.hardreset.info/devices/nothing/nothing-phone-2/safe-mode/)  
+- [Unlock Hidden Feature of Phone (2a) Special Edition by RapidZapper](https://nothing.community/d/11058-hidden-feature-of-phone-2a-special-edition)  
+- Remapping Essential Key Guide by: [acruzjumper, McKeviin, DKmarc & Pealoaf](https://www.reddit.com/r/NothingTech/comments/1jzljrf/guide_how_to_remap_the_essential_key_on_the_phone/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) | [David_Ign](https://www.reddit.com/r/NothingTech/comments/1jv6gea/quick_guide_to_remap_the_essential_space_button/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) | [rwilco12](https://xdaforums.com/t/how-to-disable-or-remap-the-essentials-button.4755184/) | [z3phydev](https://github.com/z3phydev/How-to-remap-or-disable-the-Essential-Key)
+
+#### Advanced
+Recommended for power users who know what they are doing!
+
+- [Unlocking Bootloader by spike0en](https://github.com/spike0en/nothing_archive?tab=readme-ov-file#ii-unlocking-bootloader-) 
+- [Backing Up Essential Partitions After Unlocking Bootloader by spike0en](https://github.com/spike0en/nothing_archive?tab=readme-ov-file#iii-backing-up-essential-partitions-after-unlocking-bootloader-)  
+- [Rooting Nothing Phones by spike0en](https://github.com/spike0en/awesome-android-root/blob/main/docs/android-root-guides/how-to-root-nothing-phone.md) 
+- [Fixing Play Integrity & Root Detection by yashaswee-exe](https://github.com/yashaswee-exe/AndroidGuides/wiki/Fix-integrity-and-root-detection)
+- [Flashing Stock ROM or Factory Firmware / Soft Unbricking / Downgrading Firmware Version via Fastboot by spike0en](https://github.com/spike0en/nothing_archive?tab=readme-ov-file#iv-flashing-the-stock-rom-using-fastboot-) 
+- [Relocking Bootloader by spike0en](https://github.com/spike0en/nothing_archive?tab=readme-ov-file#v-relocking-bootloader-)  
+
+---
+
 ## Acknowledgements
 
 - A massive shoutout and thank you to all the **creators, project maintainers, contributors, and community members** working behind the scenes on various Nothing-related projects. Your efforts, whether direct or indirect, have helped make this project possible. ❤️
