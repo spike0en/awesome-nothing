@@ -154,6 +154,7 @@ Community-made and inspired apps following the Nothing design.
 - [Notes by monospace](https://play.google.com/store/apps/details?id=com.monospace.notes) - A Nothing styled notes app with built-in security.
 - [Notes by ThriveEngineer](https://github.com/ThriveEngineer/nothing.notes) - A Nothing themed notes app for Android.
 - [Noting by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.notingnotes) - A Nothing styled notes and tasks app with cloud backup.
+- [Seton by arijit4](https://github.com/arijit4/Seton) - A note-taking app that keeps your notes always visible, allowing you to pin and edit them, and includes a widget for quick access when no notes are pinned.
 - [Simple Launcher by DinoyRajk](https://play.google.com/store/apps/details?id=com.dino.simple) - A minimalist launcher for Android designed to keep you focused, productive, and distraction-free.
 - [Spend Notes by Coder monk labs](https://play.google.com/store/apps/details?id=com.cmlabs.spendflow.spendflow) - A minimalist app to track your expenses effortlessly.
 
