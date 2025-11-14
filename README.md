@@ -327,7 +327,7 @@ Software toolkit for devs to create custom create custom interactive experiences
 - [Glyph-Developer-Kit (SDK)](https://github.com/Nothing-Developer-Programme/Glyph-Developer-Kit)
 - [GlyphMatrix - Sample Project](https://github.com/Nothing-Developer-Programme/GlyphMatrix-Example-Project)
 - [GlyphMatrix-Developer-Kit (SDK)](https://github.com/Nothing-Developer-Programme/GlyphMatrix-Developer-Kit)
-- [BetterGDK by Fr4nKB (Unofficial)](https://github.com/Fr4nKB/BetterGDK) - A modified version of Glyph Developer Kit by Nothing-Developer-Programme aiming to [fix bugs and improve code quality](https://github.com/Fr4nKB/BetterGDK).
+- [BetterGDK by Fr4nKB (Unofficial)](https://github.com/Fr4nKB/BetterGDK) - A modified version of Glyph Developer Kit by Nothing-Developer-Programme aiming to [fix bugs and improve code quality](https://github.com/Fr4nKB/BetterGDK#why-is-it-better).
 - [Nothing Glyph Interface for Flutter (Unofficial)](https://pub.dev/packages/nothing_glyph_interface)
 - [NothingOS.Unity (Unofficial)](http://github.com/am1goo/NothingOS.Unity) - This SDK provides native APIs for all of the essential Glyph features on Nothing Phone.
 
