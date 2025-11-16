@@ -182,7 +182,7 @@ Community-made and inspired apps following the Nothing design.
 - [NoVolume by NoAppsStudio](https://play.google.com/store/apps/details?id=com.nostudio.novolume) - A fully customisable volume slider with Nothing aesthetic. You can find presets for the same in [this discord server thread](https://discord.com/channels/930878214237200394/1396048761599557693).
 - [OpenCalc by drrnb](https://github.com/drrnb/OpenCalc/releases/tag/v3.0.0-beta4-nothing) - A simple nothing themed calculator app
 - [SaferDev by abhixv](https://play.google.com/store/apps/details?id=com.abhixv.saferdev) - The ultimate tool for gaining complete insights into your Nothing device.
-- [Voidcaller by VoidwareLabs](https://play.google.com/store/apps/details?id=com.voidware.voidcaller&hl=en_IN) - A minimalist dialer that combines simplicity and speed with a stylish, monochrome design inspired by Nothing OS.
+- [Voidcaller by VoidwareLabs](https://play.google.com/store/apps/details?id=com.voidware.voidcaller&hl=en_IN) - A sleek, minimalist dialer with a dark monochrome UI, fluid animations, and pill-shaped navigation — perfectly capturing Nothing OS’s clean, futuristic aesthetic.
 
 ---
 
