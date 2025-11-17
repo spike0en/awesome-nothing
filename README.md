@@ -173,6 +173,7 @@ Community-made and inspired apps following the Nothing design.
 - [N Keyboard by arunk14](https://github.com/arunk140/nth-kbd) - An Android keyboard app themed heavily for Nothing devices.
 - [n-recipe by a3chron](https://play.google.com/store/apps/details?id=com.a3chron.nrecipe) - An offline recipebook app, with theming inspired by Nothing.
 - [NoCalendar by NoAppsStudio](https://play.google.com/store/apps/details?id=com.calendar.nocalendar) - A calendar app inspired by Nothing design, with Google Calendar sync.
+- [NothingQuickTools by DylanAkp](https://github.com/DylanAkp/NothingQuickTools) - A collection of useful quick tiles for Nothing Phone (2).
 - [Nothing Audio Recorder by Cloud Nine Labs](https://play.google.com/store/apps/details?id=com.service.rare.audio.recorder) - An audio recorder app following the Nothing design language.
 - [Nothing Clock by Sasha Chverenko](https://github.com/SushiiReboot/Nothing-Clock) - A Nothing style world clock, timer and stopwatch app.
 - [Nothing Desk Clock by Apex Creators](https://play.google.com/store/apps/details?id=com.ApexCreator.deskclock) - An app that transforms your phone into a stylish desk clock, featuring customizable designs and a full-screen display for easy time management.
