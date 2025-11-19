@@ -10,6 +10,13 @@ A curated list of everything related to [Nothing & CMF by Nothing](https://nothi
 
 ---
 
+## Co-maintainers
+
+[![adbo](https://img.shields.io/badge/adbo-9E9D10?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/168006441318350848)
+[![Siemens NX](https://img.shields.io/badge/Siemens%20NX-8E24AA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/150299184426123273)
+
+---
+
 ## Socials 
 
 ### Official 
