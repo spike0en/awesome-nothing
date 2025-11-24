@@ -134,8 +134,15 @@ A curated list of everything related to [Nothing & CMF by Nothing](https://nothi
 
 ## Community Related
 
-### Community Apps
+### Apps
 Community-made and inspired apps following the Nothing design.
+
+#### Essential Apps
+AI-generated, hyper-personalized mini-applications created through text prompts that extend the functionality and aesthetics of the Nothing OS ecosystem.
+
+- [Nothing Playground](https://playground.nothing.tech/apps)
+
+---
 
 #### Glyph-Powered
 
@@ -201,7 +208,6 @@ Community-made and inspired apps following the Nothing design.
 #### Miscellaneous
 
 - [Dot Battery by RapidZapper](https://play.google.com/store/apps/details?id=com.lisra.dotbattery) - A live battery level wallpaper inspired by Nothing dot design language.
-- [EssentialSpaceWeb by CorruptPriest](https://github.com/CorruptPriest/EssentialSpaceWeb) - A vibecoded, minimalist notespace that captures your thoughts in a distraction-free, Dot Matrix aesthetic, inspired by Nothing OS. 
 - [MissingCore Music by MissingCore](https://play.google.com/store/apps/details?id=com.cyanchill.missingcore.music) - A Nothing OS inspired, open source offline/local music player app.
 - [Noid by TechSip Studios](https://play.google.com/store/apps/details?id=com.techsip.noid) - A Nothing styled file management app.
 - [Nothing Community App by Shaurya2295](https://github.com/Shaurya2295/Nothing-Community-App/) - This app presents the [nothing.community](https://nothing.community/) website in a user-friendly mobile format, enabling easier access and interaction for users.
@@ -211,9 +217,9 @@ Community-made and inspired apps following the Nothing design.
 
 ---
 
-### Community Projects
+### Projects
 
-#### Glyph Related
+#### Glyph-Related
 
 ##### Glyph tools
 A collection of Glyph related projects created by the Nothing community.
@@ -232,7 +238,7 @@ A collection of Glyph related projects created by the Nothing community.
 ---
 
 ##### Glyph Matrix Toys
-A collection of Glyph Matrix Toys by the community. Additionally check out [Nothing Playground](https://playground.nothing.tech/) for more interesting stuff!
+A collection of Glyph Matrix Toys by the community.
 
 - [BetterBattery by pzmuV1517](https://github.com/PzmuV1517/BetterBatery) - An Advanced Glyph Matrix battery visualization.
 - [BetterClock by Snakehater](https://github.com/Snakehater/betterclock) - This toy features a multifunctional display that includes a clock, battery status, charging animation and icon, a DND, and a toggle for the same with a back button.
@@ -253,6 +259,9 @@ A collection of Glyph Matrix Toys by the community. Additionally check out [Noth
 - [GlyphNexus by Experion Labs](https://play.google.com/store/apps/details?id=com.voidtechstudios.smartglyph) - A suite of practical Glyph tools including app notifications, Bluetooth alerts, timers, progress bars, and a music visualizer.  
 - [Timepiece by Arun Khanchandani](https://play.google.com/store/apps/details?id=com.arunk140.timepiece) - Transform your Glyph Matrix into a smart, functional, and stylish information hub with an ultimate Always-On clock utility.
 
+> Note:
+> - Check out [Nothing Playground Glyph Toys](https://playground.nothing.tech/toys) section for more interesting toys that are not included in the list above.
+
 ---
 
 #### Miscellaneous
@@ -261,6 +270,7 @@ Other interesting projects maintained by the community.
 - [Dotify Client by raj.d.patel](https://github.com/PATEL96/dotify-client) - Dot Matrix image generator.
 - [Dotmatrixify by szelszabi](https://github.com/szelszabi/dotmatrixify) - Transforms pixelart to dot matrix..
 - [Ear (web) by RapidZapper](https://earweb.bttl.xyz/) - Control your Nothing and CMF earbuds directly from the web.
+- [EssentialSpaceWeb by CorruptPriest](https://github.com/CorruptPriest/EssentialSpaceWeb) - A vibecoded, minimalist notespace that captures your thoughts in a distraction-free, Dot Matrix aesthetic, inspired by Nothing OS.
 - [GlyphMatrixEditor by pauwma](https://github.com/pauwma/GlyphMatrixEditor) - A web-based pixel art editor specifically designed for creating Nothing Phone (3) Glyph Matrix animations.
 - [Macros by RedSkullxHydra](https://nothing.community/d/14869-useful-macros-for-nothing-phones) - Useful Macros for Nothing Phones compatible with Macrodroid.
 - [Matrices by Uday](https://udaign.github.io/matrices/) - Create images and designs in the style of the Glyph Matrix easily. 
@@ -401,20 +411,32 @@ These tools are crucial for device debugging and .
 - [SGCam by Shamim](https://www.celsoazevedo.com/files/android/google-camera/dev-shamim/)
 - [BSG & MGC](https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/)
 
----
-
-### GCAM Configs
+#### GCAM Configs
 The config (`xml`) files have been archived for access in their respective directories, named after the corresponding device names. Creator names (if known) are included in the filenames for proper attribution.
 
 - [Download](https://archive.org/download/nothing-archive/spike0en/photography/)
 
 ---
 
+### Stock Camera Presets
+
+- [Discord Thread](https://discord.com/channels/930878214237200394/1351115520245760021)
+- [Google Photos Collection](https://photos.google.com/share/AF1QipMLXmA5txDQHqlHzF6OV4HhkLTMsqUx9m8_3jMNH0_MizjA7038n_j8gz4v54zTNw?pli=1&key=QUJKYVY4akFFWGVCWWtleG9DMkNCcDc1c2V5TzZB)
+- [Nothing Playground](https://playground.nothing.tech/presets?ref=aitoolsclub.com)
+- [Notion Doc by flo_rahil](http://aromatic-perfume-9a5.notion.site/1bd0ff2f0ced80c0b32cce32f552aa4e?v=1bd0ff2f0ced8152aa23000ce56a341a)
+- [r/NothingTech](https://www.reddit.com/r/NothingTech/search/?q=camera+presets&cId=70df6813-08c4-4c20-92cb-8760e1b7962e&iId=b0b36039-e06b-42bc-b68a-27abd9ea8447)
+- [Telegram Community Topic](https://t.me/NothingTelegramCommunity)
+
+
 ### Miscellaneous
 
-- [Stock Cam Presets Discord Thread](https://discord.com/channels/930878214237200394/1351115520245760021)
-- [Stock Cam Presets Notion Doc by flo_rahil](http://aromatic-perfume-9a5.notion.site/1bd0ff2f0ced80c0b32cce32f552aa4e?v=1bd0ff2f0ced8152aa23000ce56a341a)
 - [Shot With Nothing by Ali](https://shotwithnothing.crd.co/) - A dedicated space for the nothing community to share their best captures, showcase creativity, and celebrate photography.
+
+---
+
+## Sound & Audio
+
+- [Stock EQ profiles](https://playground.nothing.tech/eqs) - Community made EQ profiles compatible with Nothing earphones and headphones that support the Advanced Equaliser via [Nothing X](https://play.google.com/store/apps/details?id=com.nothing.smartcenter&hl=en_IN).
 
 ---
 
