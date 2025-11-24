@@ -272,6 +272,7 @@ Other interesting projects maintained by the community.
 - [Ear (web) by RapidZapper](https://earweb.bttl.xyz/) - Control your Nothing and CMF earbuds directly from the web.
 - [EssentialSpaceWeb by CorruptPriest](https://github.com/CorruptPriest/EssentialSpaceWeb) - A vibecoded, minimalist notespace that captures your thoughts in a distraction-free, Dot Matrix aesthetic, inspired by Nothing OS.
 - [GlyphMatrixEditor by pauwma](https://github.com/pauwma/GlyphMatrixEditor) - A web-based pixel art editor specifically designed for creating Nothing Phone (3) Glyph Matrix animations.
+- [Glyph Matrix Image Maker by quintenvandamme](https://github.com/quintenvandamme/glyph-matrix-image-maker) - A web application that converts images into glyph matrix patterns.
 - [Macros by RedSkullxHydra](https://nothing.community/d/14869-useful-macros-for-nothing-phones) - Useful Macros for Nothing Phones compatible with Macrodroid.
 - [Matrices by Uday](https://udaign.github.io/matrices/) - Create images and designs in the style of the Glyph Matrix easily. 
 - [nKWGT by avnishkt2783](https://github.com/avnishkt2783/nKWGT) - Yet another collection of Nothing-style widgets.
