@@ -184,6 +184,7 @@ AI-generated, hyper-personalized mini-applications created through text prompts 
 - [Battery Health by monospace](https://play.google.com/store/apps/details?id=com.monospace.battery) - A battery health monitoring app with design inspired by Nothing apps.
 - [Calories Are Nothing by WeAreMobileFirst](https://play.google.com/store/apps/details?id=can.wearemobilefirst.com) -  A meal logging app that helps you make better food choices by allowing quick photo or text entries without the hassle of calorie counting.
 - [Gamething by Lev Matuzin](https://play.google.com/store/apps/details?id=com.LevMatuzin.Gamething) - A game inspired by Google’s Dino game, thoughtfully redesigned to perfectly complement Nothing phones.
+- [HeyBattery by Candan](https://github.com/ghostyapps/HeyBattery) - A lightweight Android app that tracks your battery usage and charging behavior.
 - [MateApp by shahriaravi](https://github.com/shahriaravi/MateApp) - A minimalist, offline finance tracker inspired by the Nothing aesthetic, ensuring your data remains private and under your control.
 - [N Calc by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.ncalc) - A calculator with custom themes, including Nothing style.
 - [N Dial by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.ndial) - A Nothing styled phone dialer and contacts app.
