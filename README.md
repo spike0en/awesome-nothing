@@ -377,10 +377,10 @@ The official links to `.glb` files are shared below for respective models.
 
 #### Nothing
 
-- Phone(2a) - [Milk](https://cdn.sanity.io/files/gtd4w1cq/production/ca82536a7a2b0863c8089a33d9d2c2e7040c54ea.glb) | [White](https://cdn.sanity.io/files/gtd4w1cq/production/e8d9a61151ef6099e479867a915118889f912565.glb) | [Black](https://cdn.sanity.io/files/gtd4w1cq/production/ce7c70562ae2ae9b855a8c7890ff9f0ca32a5444.glb)
+- Phone (2a) - [Milk](https://cdn.sanity.io/files/gtd4w1cq/production/ca82536a7a2b0863c8089a33d9d2c2e7040c54ea.glb) | [White](https://cdn.sanity.io/files/gtd4w1cq/production/e8d9a61151ef6099e479867a915118889f912565.glb) | [Black](https://cdn.sanity.io/files/gtd4w1cq/production/ce7c70562ae2ae9b855a8c7890ff9f0ca32a5444.glb)
 - Phone (2a) Plus - [Grey](https://cdn.sanity.io/files/gtd4w1cq/production/c7e0ccb72b2499d767b42fcf301e0a101de2a142.glb) | [Black](https://cdn.sanity.io/files/gtd4w1cq/production/77ffcbc5051cecc129b4d01fa8604af81c75146f.glb)
 - Phone (3a) - [White](https://cdn.sanity.io/files/gtd4w1cq/production/5e7ba02cea8fec699981c2300044d1ed6c7cf596.glb) | [Black](https://cdn.sanity.io/files/gtd4w1cq/production/ac24f45e7ede6ba277d152db14d6eb24d30f3695.glb) | [Blue](https://cdn.sanity.io/files/gtd4w1cq/production/001d6730215861417e2086a432f16ebf77ef0962.glb)
-- Phone (3a) Pro -[Grey](https://cdn.sanity.io/files/gtd4w1cq/production/24ce4b3c91a382d4575aef2f86c0bf5edbd3616d.glb) | [Black](https://cdn.sanity.io/files/gtd4w1cq/production/4ae88c1b5ad184f3b3c122736fce86b3337902ba.glb)
+- Phone (3a) Pro - [Grey](https://cdn.sanity.io/files/gtd4w1cq/production/24ce4b3c91a382d4575aef2f86c0bf5edbd3616d.glb) | [Black](https://cdn.sanity.io/files/gtd4w1cq/production/4ae88c1b5ad184f3b3c122736fce86b3337902ba.glb)
 - Phone (3a) Lite - [White](https://cdn.sanity.io/files/gtd4w1cq/production/c00cd7815c04b82583895591dcf6266c3ef41ead.glb) | [Black](https://cdn.sanity.io/files/gtd4w1cq/production/2f7c746bb7322c33c1b62378312cf3d9851d4490.glb)
 - Phone (3) - [White](https://cdn.sanity.io/files/gtd4w1cq/production/0b736072a221b655bd719b579b5bef594209ff51.glb) | [Black](https://cdn.sanity.io/files/gtd4w1cq/production/33caf1c9600cc1f66fc5d06a9db420ad2df7edbe.glb)
 
