@@ -288,6 +288,7 @@ Other interesting projects maintained by the community.
 - [Nothing KWGT apps by aaumgupta](https://github.com/AumGupta/KWGT-Widgets) - Open-source collection of Nothing-style KWGT widgets. 
 - [Nothing News Hub by StickyPRP](https://nothing-news.de/hub/) - Your central hub for everything related to nothing, be it apps, reviews, and news.
 - [Nothing News by lsh3](https://chromewebstore.google.com/detail/nothing-news/ijacccpmmnbckkiobhonleppbcljpjpo) - A Chrome extension to quickly browse the latest nothing.community news.  
+- [Nothing VSCode Theme by shahriaravi]( https://github.com/shahriaravi/nothing-vscode-theme) - A Nothing OS styled VS Code theme extension.
 - [NothingOS Manjaro Gnome by HyenaDesign](https://github.com/HyenaDesign/nothingos-gnome-manjaro) - A NothingOS inspired desktop build for Manjaro Linux (GNOME edition).
 - [NotWidgets by GXX0T](https://github.com/GXX0T/NotWidgets) - A collection of minimalist Nothing OS-inspired Rainmeter widgets for Windows with light/dark mode options.
 - [NThing-UI](https://github.com/Runixe786/NThing-UI) - A collection of Nothing-styled Rainmeter widgets for desktop customization.
