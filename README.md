@@ -312,7 +312,10 @@ The official suite of apps developed by Nothing Technology Limited.
 - [Nothing X](https://play.google.com/store/apps/details?id=com.nothing.smartcenter)  
 - [Wallpaper](https://play.google.com/store/apps/details?id=com.nothing.wallpaper)  
 - [Weather](https://play.google.com/store/apps/details?id=com.nothing.weather)  
-- [Widgets](https://play.google.com/store/apps/details?id=com.nothing.hearthstone) 
+- [Widgets](https://play.google.com/store/apps/details?id=com.nothing.hearthstone)
+- [Essential Search](https://play.google.com/store/apps/details?id=com.nothing.essential.search)
+
+A mirror of official apps are available at [APKMirror](https://www.apkmirror.com/apk/nothing-technology-limited/)
 
 ---
 
