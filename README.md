@@ -432,6 +432,12 @@ These tools are crucial for device debugging and .
   ```cmd
   winget install --id=Google.PlatformTools  -e
   ```
+- macOS/Linux users can can alternatively install Android SDK Platform-Tools with [Homebrew](https://brew.sh/) by executing the command below:
+
+  ```cmd
+  brew install --cask android-platform-tools
+  ```
+  
 ---
 
 ## Photography
