@@ -362,6 +362,7 @@ The walls have been archived for access under respective directories named after
 - [Phone (3)](https://github.com/NothingOSS/android_kernel_msm-6.6_nothing_sm8735)
 - [CMF Phone (1)](https://github.com/NothingOSS/android_kernel_6.1_nothing_mt6878)
 - [CMF Phone (2) Pro](https://github.com/NothingOSS/android_kernel_modules_nothing_mt6878/tree/mt6878/Galaga/v)
+- [Phone 3a Lite](https://github.com/NothingOSS/android_kernel_modules_nothing_mt6878/tree/mt6878/Galaxian/v)
 
 ---
 
